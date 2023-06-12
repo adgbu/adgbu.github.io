@@ -1,4 +1,5 @@
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+#theme: minima
 #theme: jekyll-theme-minimal
 title: adgbu GitHub Pages
 description: This webpage is work in progress.
