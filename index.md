@@ -14,3 +14,9 @@ Here is [link to the about page](about.md).
 
 Here's some [markdown tutorial stuff](markdown.md).
 
+Jekyll version
+{{ site.github.versions.jekyll }}
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
