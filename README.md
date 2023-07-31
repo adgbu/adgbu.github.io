@@ -1,9 +1,7 @@
----
-title: "Front matter title"
----
-
 # Hello GitHub Pages!
 
-This is my first GitHub Pages page. This is actually a README markdown file. Markdown makes it really *simple* and __clean__ to write documents without any special software or lengthy syntax. Just get it done!
+This is my first GitHub Pages project. Should be published as [https://adgbu.github.io](https://adgbu.github.io)
 
 Here is [link to the about page](about.md).
+
+Here's some [markdown tutorial stuff](markdown.md).
