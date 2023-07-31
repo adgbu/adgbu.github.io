@@ -1,6 +1,7 @@
 plugins:
   - jekyll-include-cache
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: aqua
 #theme: minima
 #theme: jekyll-theme-minimal
 title: adgbu GitHub Pages
