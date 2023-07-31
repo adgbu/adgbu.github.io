@@ -1,4 +1,5 @@
 ---
+title: "Front matter title"
 ---
 
 # Hello GitHub Pages!
