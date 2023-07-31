@@ -18,3 +18,9 @@ Jekyll version
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
+
+## List of all posts
+
+{% for post in site.posts %}
+  * [{{ post.title }}]({{ post.url }})
+{% endfor %}
