@@ -1,5 +1,6 @@
 ---
 title: Markdown intro
+layout: archive
 ---
 
 ## Introduktion
