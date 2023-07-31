@@ -6,6 +6,10 @@ description: This webpage is work in progress.
 #theme: jekyll-theme-minimal
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: aqua
+permalink: pretty
+encoding: "utf-8"
+locale: "sv_SE"
+
 defaults:
   # _pages
   - scope:
