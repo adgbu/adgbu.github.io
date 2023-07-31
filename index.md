@@ -17,6 +17,8 @@ Here's some [markdown tutorial stuff](markdown.md).
 Jekyll version
 {{ site.github.versions.jekyll }}
 
+## List of public repos
+
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
