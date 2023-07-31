@@ -1,3 +1,7 @@
+---
+title: Markdown intro
+---
+
 ## Introduktion
 
 *Markdown* är ett sätt att kunna lägga in grundläggande struktur och formatering i dokument, trots att man sparar dokumentet som ren text (plain text). Ren text är det mest portabla och kompatibla sättet att lagra text. 
